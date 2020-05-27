@@ -309,3 +309,5 @@ class Ui_MainWindow(object):
         self.label_17.setText(_translate("MainWindow", "Cu"))
         self.pushButton_6.setText(_translate("MainWindow", "Ввести"))
         self.toolBox.setItemText(self.toolBox.indexOf(self.page_3), _translate("MainWindow", "Ввести Al Cu"))
+
+        
